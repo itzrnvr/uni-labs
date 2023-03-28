@@ -2,7 +2,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class Q1 {
   public static void main(String args[]) {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter input val 1: ");
